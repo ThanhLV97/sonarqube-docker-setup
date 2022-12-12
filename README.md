@@ -31,10 +31,6 @@
 
     </br>
 
-    ![Login-page](assets/login-page.jpg)
-
-    </br>
-
 2. Analyzing source code with Docker
 
     Now that you're logged in to your local SonarQube instance, let's analyze a project:
